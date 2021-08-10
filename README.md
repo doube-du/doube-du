@@ -13,7 +13,7 @@
 
 <!-- PT / BR -->
 
-<h2>Para leitores em Português</h2>
+<h2>.para leitores em português</h2>
 
 - 👋 Olá, me chamo Eduardo Augusto (mas pode me chamar de Edu)
 - 👀 Hoje estou interessado em soluções Front-End
